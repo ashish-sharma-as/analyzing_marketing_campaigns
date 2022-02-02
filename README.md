@@ -18,10 +18,13 @@ Extract information pertaining to and analyze effectiveness of marketing campaig
 - Retention Rate
 - Conversion Attribution - automation of common marketing analysis
 
-## Key Outcomes
+## Data
 - `100K samples` assessed
 - `7309 unique users`
 - `31 days of marketing campaigns`
+- The data used for this notebook is prepared by DataCamp. I have leveraged this to build on and draw insightful insights
+
+## Key Outcomes
 - On an average, `~300 users see a marketing campaign each day`
 - `Conversation Rate` for entire duration of marketing campaigns = `13.09%`
 - `1-month Retention Rate = 66.8%`
